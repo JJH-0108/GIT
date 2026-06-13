@@ -1,3 +1,3 @@
-print("hi")
-print("thanks^^")
-print('holy shit!')
+print("hi!!^^/*")
+print("thanks!")
+print('holy shit#$@')
