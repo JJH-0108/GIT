@@ -1,5 +1,4 @@
 print("hi!!^^/*")
-print("thanks!")
+print("thanks!@#%@#$!")
 print('holy shit#$@')
-print("안녕하세요.")
-print("안녕못하다.")
+
